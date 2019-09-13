@@ -10,3 +10,4 @@ end
 
 phrase = "Hello there, and how are you?"
 
+puts reverse_each_word(phrase)
